@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T16:46:07.702481+00:00",
+  "last_updated": "2026-06-17T22:54:41.525292+00:00",
   "drafters": {
     "Cole": {
       "total_points": 4,
@@ -137,15 +137,15 @@
       }
     },
     "Joey": {
-      "total_points": 3,
+      "total_points": 6,
       "teams": {
         "England": {
-          "W": 0,
+          "W": 1,
           "L": 0,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
-          "pts": 0
+          "pts": 3
         },
         "Belgium": {
           "W": 0,
@@ -194,7 +194,7 @@
         },
         "Croatia": {
           "W": 0,
-          "L": 0,
+          "L": 1,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
@@ -227,15 +227,15 @@
       }
     },
     "Ryan": {
-      "total_points": 7,
+      "total_points": 8,
       "teams": {
         "Portugal": {
           "W": 0,
           "L": 0,
-          "T": 0,
+          "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 0
+          "pts": 1
         },
         "Colombia": {
           "W": 0,
