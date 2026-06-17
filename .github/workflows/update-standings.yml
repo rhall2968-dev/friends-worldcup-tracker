@@ -1,0 +1,33 @@
+name: Update World Cup Standings
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Every 3 hours (00:00, 03:00, 06:00, etc. UTC)
+  workflow_dispatch:       # lets you trigger manually from the GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch standings
+        run: python scripts/fetch_standings.py
+
+      - name: Commit updated standings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/standings.json
+          git diff --staged --quiet || (
+            git commit -m "chore: update standings $(date -u +%Y-%m-%d)" &&
+            git push
+          )
