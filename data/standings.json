@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T03:06:31.933366+00:00",
+  "last_updated": "2026-06-17T14:49:55.133946+00:00",
   "drafters": {
     "Cole": {
       "total_points": 4,
@@ -92,7 +92,7 @@
       }
     },
     "J Mill": {
-      "total_points": 4,
+      "total_points": 7,
       "teams": {
         "Argentina": {
           "W": 1,
@@ -119,12 +119,12 @@
           "pts": 0
         },
         "Austria": {
-          "W": 0,
+          "W": 1,
           "L": 0,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
-          "pts": 0
+          "pts": 3
         },
         "Czechia": {
           "W": 0,
