@@ -13,11 +13,13 @@ ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
 DRAFTERS = {
-    "Dogg": ["France", "Morocco", "USA", "Colombia", "Ecuador"],
-    "Reet": ["Spain", "Croatia", "Belgium", "Uruguay", "Ivory Coast"],
-    "Joven": ["Argentina", "Netherlands", "Japan", "Turkey", "Austria"],
-    "Kid":  ["England", "Brazil", "Mexico", "Senegal", "Korea"],
-    "Dike": ["Portugal", "Germany", "Norway", "Switzerland", "Sweden"],
+    "Cole": ["France", "Senegal", "Uruguay", "Turkey", "Ghana"],
+    "Markus": ["Spain", "Norway", "Ivory Coast", "South Korea", "Tunisia"],
+    "J Mill": ["Argentina", "Morocco", "Ecuador", "Austria", "Czechia"],
+    "Joey": ["England", "Belgium", "Switzerland", "Canada", "Paraguay"],
+    "Logan": ["Germany", "Croatia", "USA", "Egypt", "Algeria"],
+    "Ryan": ["Portugal", "Colombia", "Japan", "Sweden", "Scotland"],
+    "Austin": ["Brazil", "Netherlands", "Mexico", "Australia", "Iran"],
 }
 
 # worldcup26.ir name → our draft name
