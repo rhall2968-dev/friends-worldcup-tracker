@@ -26,6 +26,7 @@ DRAFTERS = {
 API_NAME_MAP = {
     "South Korea":   "Korea",
     "United States": "USA",
+    "Czech Republic": "Czechia",
 }
 
 POINTS = {"WIN": 3, "OTW": 2, "TIE": 1, "OTL": 1, "LOSS": 0}
