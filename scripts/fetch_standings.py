@@ -14,7 +14,7 @@ ssl_context.verify_mode = ssl.CERT_NONE
 
 DRAFTERS = {
     "Cole": ["France", "Senegal", "Uruguay", "Turkey", "Ghana"],
-    "Markus": ["Spain", "Norway", "Ivory Coast", "South Korea", "Tunisia"],
+    "Markus": ["Spain", "Norway", "Ivory Coast", "Korea", "Tunisia"],
     "J Mill": ["Argentina", "Morocco", "Ecuador", "Austria", "Czechia"],
     "Joey": ["England", "Belgium", "Switzerland", "Canada", "Paraguay"],
     "Logan": ["Germany", "Croatia", "USA", "Egypt", "Algeria"],

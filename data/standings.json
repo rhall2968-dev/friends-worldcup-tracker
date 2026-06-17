@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T02:56:53.589238+00:00",
+  "last_updated": "2026-06-17T03:04:56.115775+00:00",
   "drafters": {
     "Cole": {
       "total_points": 4,
@@ -47,7 +47,7 @@
       }
     },
     "Markus": {
-      "total_points": 7,
+      "total_points": 10,
       "teams": {
         "Spain": {
           "W": 0,
@@ -73,13 +73,13 @@
           "OTL": 0,
           "pts": 3
         },
-        "South Korea": {
-          "W": 0,
+        "Korea": {
+          "W": 1,
           "L": 0,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
-          "pts": 0
+          "pts": 3
         },
         "Tunisia": {
           "W": 0,
@@ -92,15 +92,15 @@
       }
     },
     "J Mill": {
-      "total_points": 1,
+      "total_points": 4,
       "teams": {
         "Argentina": {
-          "W": 0,
+          "W": 1,
           "L": 0,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
-          "pts": 0
+          "pts": 3
         },
         "Morocco": {
           "W": 0,
@@ -218,7 +218,7 @@
         },
         "Algeria": {
           "W": 0,
-          "L": 0,
+          "L": 1,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
