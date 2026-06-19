@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T19:16:54.136260+00:00",
+  "last_updated": "2026-06-19T23:53:36.839268+00:00",
   "drafters": {
     "Cole": {
       "total_points": 7,
@@ -182,7 +182,7 @@
       }
     },
     "Logan": {
-      "total_points": 7,
+      "total_points": 10,
       "teams": {
         "Germany": {
           "W": 1,
@@ -201,12 +201,12 @@
           "pts": 0
         },
         "USA": {
-          "W": 1,
+          "W": 2,
           "L": 0,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
-          "pts": 3
+          "pts": 6
         },
         "Egypt": {
           "W": 0,
@@ -300,7 +300,7 @@
         },
         "Australia": {
           "W": 1,
-          "L": 0,
+          "L": 1,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
