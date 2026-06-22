@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-06-21T22:00:35.016453+00:00",
+  "last_updated": "2026-06-22T00:09:09.923582+00:00",
   "drafters": {
     "Cole": {
-      "total_points": 7,
+      "total_points": 8,
       "teams": {
         "France": {
           "W": 1,
@@ -23,10 +23,10 @@
         "Uruguay": {
           "W": 0,
           "L": 0,
-          "T": 1,
+          "T": 2,
           "OTW": 0,
           "OTL": 0,
-          "pts": 1
+          "pts": 2
         },
         "Turkey": {
           "W": 0,
