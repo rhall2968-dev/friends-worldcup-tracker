@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T00:09:09.923582+00:00",
+  "last_updated": "2026-06-22T06:26:38.729045+00:00",
   "drafters": {
     "Cole": {
       "total_points": 8,
@@ -182,7 +182,7 @@
       }
     },
     "Logan": {
-      "total_points": 13,
+      "total_points": 16,
       "teams": {
         "Germany": {
           "W": 2,
@@ -209,12 +209,12 @@
           "pts": 6
         },
         "Egypt": {
-          "W": 0,
+          "W": 1,
           "L": 0,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 1
+          "pts": 4
         },
         "Algeria": {
           "W": 0,
