@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-06-23T21:47:04.791921+00:00",
+  "last_updated": "2026-06-23T23:06:44.394674+00:00",
   "drafters": {
     "Cole": {
-      "total_points": 11,
+      "total_points": 12,
       "teams": {
         "France": {
           "W": 2,
@@ -39,10 +39,10 @@
         "Ghana": {
           "W": 1,
           "L": 0,
-          "T": 0,
+          "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 3
+          "pts": 4
         }
       }
     },
@@ -137,15 +137,15 @@
       }
     },
     "Joey": {
-      "total_points": 16,
+      "total_points": 17,
       "teams": {
         "England": {
           "W": 1,
           "L": 0,
-          "T": 0,
+          "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 3
+          "pts": 4
         },
         "Belgium": {
           "W": 0,
