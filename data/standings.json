@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T17:50:30.949029+00:00",
+  "last_updated": "2026-06-23T19:58:54.126202+00:00",
   "drafters": {
     "Cole": {
       "total_points": 11,
@@ -227,15 +227,15 @@
       }
     },
     "Ryan": {
-      "total_points": 14,
+      "total_points": 17,
       "teams": {
         "Portugal": {
-          "W": 0,
+          "W": 1,
           "L": 0,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 1
+          "pts": 4
         },
         "Colombia": {
           "W": 1,
