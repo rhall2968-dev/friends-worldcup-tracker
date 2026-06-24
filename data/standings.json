@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T20:46:28.093669+00:00",
+  "last_updated": "2026-06-24T22:14:32.027145+00:00",
   "drafters": {
     "Cole": {
       "total_points": 12,
@@ -137,7 +137,7 @@
       }
     },
     "Joey": {
-      "total_points": 17,
+      "total_points": 20,
       "teams": {
         "England": {
           "W": 1,
@@ -156,16 +156,16 @@
           "pts": 2
         },
         "Switzerland": {
-          "W": 1,
+          "W": 2,
           "L": 0,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 4
+          "pts": 7
         },
         "Canada": {
           "W": 1,
-          "L": 0,
+          "L": 1,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
