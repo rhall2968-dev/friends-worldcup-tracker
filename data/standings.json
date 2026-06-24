@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T23:06:44.394674+00:00",
+  "last_updated": "2026-06-24T02:55:33.313452+00:00",
   "drafters": {
     "Cole": {
       "total_points": 12,
@@ -182,7 +182,7 @@
       }
     },
     "Logan": {
-      "total_points": 19,
+      "total_points": 22,
       "teams": {
         "Germany": {
           "W": 2,
@@ -193,12 +193,12 @@
           "pts": 6
         },
         "Croatia": {
-          "W": 0,
+          "W": 1,
           "L": 1,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
-          "pts": 0
+          "pts": 3
         },
         "USA": {
           "W": 2,
