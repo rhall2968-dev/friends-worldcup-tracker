@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T00:08:33.182815+00:00",
+  "last_updated": "2026-06-25T05:02:41.875591+00:00",
   "drafters": {
     "Cole": {
       "total_points": 12,
@@ -75,7 +75,7 @@
         },
         "Korea": {
           "W": 1,
-          "L": 1,
+          "L": 2,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
@@ -128,7 +128,7 @@
         },
         "Czechia": {
           "W": 0,
-          "L": 1,
+          "L": 2,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
@@ -272,7 +272,7 @@
       }
     },
     "Austin": {
-      "total_points": 22,
+      "total_points": 25,
       "teams": {
         "Brazil": {
           "W": 2,
@@ -291,12 +291,12 @@
           "pts": 4
         },
         "Mexico": {
-          "W": 2,
+          "W": 3,
           "L": 0,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
-          "pts": 6
+          "pts": 9
         },
         "Australia": {
           "W": 1,
