@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T22:14:32.027145+00:00",
+  "last_updated": "2026-06-25T00:08:33.182815+00:00",
   "drafters": {
     "Cole": {
       "total_points": 12,
@@ -92,7 +92,7 @@
       }
     },
     "J Mill": {
-      "total_points": 15,
+      "total_points": 18,
       "teams": {
         "Argentina": {
           "W": 2,
@@ -103,12 +103,12 @@
           "pts": 6
         },
         "Morocco": {
-          "W": 1,
+          "W": 2,
           "L": 0,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 4
+          "pts": 7
         },
         "Ecuador": {
           "W": 0,
@@ -263,7 +263,7 @@
         },
         "Scotland": {
           "W": 1,
-          "L": 1,
+          "L": 2,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
@@ -272,15 +272,15 @@
       }
     },
     "Austin": {
-      "total_points": 19,
+      "total_points": 22,
       "teams": {
         "Brazil": {
-          "W": 1,
+          "W": 2,
           "L": 0,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 4
+          "pts": 7
         },
         "Netherlands": {
           "W": 1,
