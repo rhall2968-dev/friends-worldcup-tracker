@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T21:41:38.625223+00:00",
+  "last_updated": "2026-06-25T23:15:31.287221+00:00",
   "drafters": {
     "Cole": {
       "total_points": 12,
@@ -47,7 +47,7 @@
       }
     },
     "Markus": {
-      "total_points": 16,
+      "total_points": 19,
       "teams": {
         "Spain": {
           "W": 1,
@@ -66,12 +66,12 @@
           "pts": 6
         },
         "Ivory Coast": {
-          "W": 1,
+          "W": 2,
           "L": 1,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
-          "pts": 3
+          "pts": 6
         },
         "Korea": {
           "W": 1,
@@ -92,7 +92,7 @@
       }
     },
     "J Mill": {
-      "total_points": 18,
+      "total_points": 21,
       "teams": {
         "Argentina": {
           "W": 2,
@@ -111,12 +111,12 @@
           "pts": 7
         },
         "Ecuador": {
-          "W": 0,
+          "W": 1,
           "L": 1,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 1
+          "pts": 4
         },
         "Austria": {
           "W": 1,
@@ -186,7 +186,7 @@
       "teams": {
         "Germany": {
           "W": 2,
-          "L": 0,
+          "L": 1,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
