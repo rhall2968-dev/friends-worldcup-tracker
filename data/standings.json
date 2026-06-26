@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T23:15:31.287221+00:00",
+  "last_updated": "2026-06-26T03:24:11.356695+00:00",
   "drafters": {
     "Cole": {
       "total_points": 12,
@@ -83,7 +83,7 @@
         },
         "Tunisia": {
           "W": 0,
-          "L": 2,
+          "L": 3,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
@@ -227,7 +227,7 @@
       }
     },
     "Ryan": {
-      "total_points": 20,
+      "total_points": 22,
       "teams": {
         "Portugal": {
           "W": 1,
@@ -248,18 +248,18 @@
         "Japan": {
           "W": 1,
           "L": 0,
-          "T": 1,
+          "T": 2,
           "OTW": 0,
           "OTL": 0,
-          "pts": 4
+          "pts": 5
         },
         "Sweden": {
           "W": 1,
           "L": 1,
-          "T": 0,
+          "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 3
+          "pts": 4
         },
         "Scotland": {
           "W": 1,
@@ -272,7 +272,7 @@
       }
     },
     "Austin": {
-      "total_points": 25,
+      "total_points": 28,
       "teams": {
         "Brazil": {
           "W": 2,
@@ -283,12 +283,12 @@
           "pts": 7
         },
         "Netherlands": {
-          "W": 1,
+          "W": 2,
           "L": 0,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 4
+          "pts": 7
         },
         "Mexico": {
           "W": 3,
