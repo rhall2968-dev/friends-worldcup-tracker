@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T04:51:04.044136+00:00",
+  "last_updated": "2026-06-27T07:47:19.792094+00:00",
   "drafters": {
     "Cole": {
       "total_points": 21,
@@ -137,7 +137,7 @@
       }
     },
     "Joey": {
-      "total_points": 21,
+      "total_points": 24,
       "teams": {
         "England": {
           "W": 1,
@@ -148,12 +148,12 @@
           "pts": 4
         },
         "Belgium": {
-          "W": 0,
+          "W": 1,
           "L": 0,
           "T": 2,
           "OTW": 0,
           "OTL": 0,
-          "pts": 2
+          "pts": 5
         },
         "Switzerland": {
           "W": 2,
@@ -182,7 +182,7 @@
       }
     },
     "Logan": {
-      "total_points": 22,
+      "total_points": 23,
       "teams": {
         "Germany": {
           "W": 2,
@@ -211,10 +211,10 @@
         "Egypt": {
           "W": 1,
           "L": 0,
-          "T": 1,
+          "T": 2,
           "OTW": 0,
           "OTL": 0,
-          "pts": 4
+          "pts": 5
         },
         "Algeria": {
           "W": 1,
@@ -272,7 +272,7 @@
       }
     },
     "Austin": {
-      "total_points": 29,
+      "total_points": 30,
       "teams": {
         "Brazil": {
           "W": 2,
@@ -309,10 +309,10 @@
         "Iran": {
           "W": 0,
           "L": 0,
-          "T": 2,
+          "T": 3,
           "OTW": 0,
           "OTL": 0,
-          "pts": 2
+          "pts": 3
         }
       }
     }
