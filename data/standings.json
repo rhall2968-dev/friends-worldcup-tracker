@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T23:59:14.816608+00:00",
+  "last_updated": "2026-06-28T04:43:06.704749+00:00",
   "drafters": {
     "Cole": {
       "total_points": 21,
@@ -92,15 +92,15 @@
       }
     },
     "J Mill": {
-      "total_points": 21,
+      "total_points": 25,
       "teams": {
         "Argentina": {
-          "W": 2,
+          "W": 3,
           "L": 0,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
-          "pts": 6
+          "pts": 9
         },
         "Morocco": {
           "W": 2,
@@ -121,10 +121,10 @@
         "Austria": {
           "W": 1,
           "L": 1,
-          "T": 0,
+          "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 3
+          "pts": 4
         },
         "Czechia": {
           "W": 0,
@@ -182,7 +182,7 @@
       }
     },
     "Logan": {
-      "total_points": 26,
+      "total_points": 27,
       "teams": {
         "Germany": {
           "W": 2,
@@ -219,31 +219,31 @@
         "Algeria": {
           "W": 1,
           "L": 1,
-          "T": 0,
-          "OTW": 0,
-          "OTL": 0,
-          "pts": 3
-        }
-      }
-    },
-    "Ryan": {
-      "total_points": 22,
-      "teams": {
-        "Portugal": {
-          "W": 1,
-          "L": 0,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
           "pts": 4
+        }
+      }
+    },
+    "Ryan": {
+      "total_points": 24,
+      "teams": {
+        "Portugal": {
+          "W": 1,
+          "L": 0,
+          "T": 2,
+          "OTW": 0,
+          "OTL": 0,
+          "pts": 5
         },
         "Colombia": {
           "W": 2,
           "L": 0,
-          "T": 0,
+          "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 6
+          "pts": 7
         },
         "Japan": {
           "W": 1,
