@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T22:54:01.792697+00:00",
+  "last_updated": "2026-06-30T00:01:19.746118+00:00",
   "drafters": {
     "Cole": {
       "total_points": 21,
@@ -137,7 +137,7 @@
       }
     },
     "Joey": {
-      "total_points": 30,
+      "total_points": 31,
       "teams": {
         "England": {
           "W": 2,
@@ -174,23 +174,23 @@
         "Paraguay": {
           "W": 1,
           "L": 1,
-          "T": 1,
+          "T": 2,
           "OTW": 0,
           "OTL": 0,
-          "pts": 4
+          "pts": 5
         }
       }
     },
     "Logan": {
-      "total_points": 27,
+      "total_points": 28,
       "teams": {
         "Germany": {
           "W": 2,
           "L": 1,
-          "T": 0,
+          "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 6
+          "pts": 7
         },
         "Croatia": {
           "W": 2,
