@@ -59,6 +59,8 @@ def result_for(match, team):
     # If there are penalty scores, use those to determine the winner
     home_pen = match.get("home_penalty_score")
     away_pen = match.get("away_penalty_score")
+    home_pen = None if home_pen == "null" else home_pen
+    away_pen = None if away_pen == "null" else away_pen
     if home_pen is not None and away_pen is not None:
         h_pen = int(home_pen)
         a_pen = int(away_pen)
