@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T19:16:06.257018+00:00",
+  "last_updated": "2026-07-03T21:01:35.937220+00:00",
   "drafters": {
     "Cole": {
       "total_points": 25,
@@ -182,7 +182,7 @@
       }
     },
     "Logan": {
-      "total_points": 31,
+      "total_points": 33,
       "teams": {
         "Germany": {
           "W": 2,
@@ -212,9 +212,9 @@
           "W": 1,
           "L": 0,
           "T": 2,
-          "OTW": 0,
+          "OTW": 1,
           "OTL": 0,
-          "pts": 5
+          "pts": 7
         },
         "Algeria": {
           "W": 1,
@@ -272,7 +272,7 @@
       }
     },
     "Austin": {
-      "total_points": 37,
+      "total_points": 38,
       "teams": {
         "Brazil": {
           "W": 3,
@@ -303,8 +303,8 @@
           "L": 1,
           "T": 1,
           "OTW": 0,
-          "OTL": 0,
-          "pts": 4
+          "OTL": 1,
+          "pts": 5
         },
         "Iran": {
           "W": 0,
