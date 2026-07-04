@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T17:15:30.450269+00:00",
+  "last_updated": "2026-07-04T19:06:39.678056+00:00",
   "drafters": {
     "Cole": {
       "total_points": 25,
@@ -92,7 +92,7 @@
       }
     },
     "J Mill": {
-      "total_points": 29,
+      "total_points": 32,
       "teams": {
         "Argentina": {
           "W": 3,
@@ -103,12 +103,12 @@
           "pts": 11
         },
         "Morocco": {
-          "W": 2,
+          "W": 3,
           "L": 0,
           "T": 1,
           "OTW": 1,
           "OTL": 0,
-          "pts": 9
+          "pts": 12
         },
         "Ecuador": {
           "W": 1,
@@ -165,7 +165,7 @@
         },
         "Canada": {
           "W": 2,
-          "L": 1,
+          "L": 2,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
