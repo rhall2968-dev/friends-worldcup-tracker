@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T00:13:51.138502+00:00",
+  "last_updated": "2026-07-04T04:32:36.237593+00:00",
   "drafters": {
     "Cole": {
       "total_points": 25,
@@ -38,7 +38,7 @@
         },
         "Ghana": {
           "W": 1,
-          "L": 1,
+          "L": 2,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
@@ -92,15 +92,15 @@
       }
     },
     "J Mill": {
-      "total_points": 27,
+      "total_points": 29,
       "teams": {
         "Argentina": {
           "W": 3,
           "L": 0,
           "T": 0,
-          "OTW": 0,
+          "OTW": 1,
           "OTL": 0,
-          "pts": 9
+          "pts": 11
         },
         "Morocco": {
           "W": 2,
@@ -227,7 +227,7 @@
       }
     },
     "Ryan": {
-      "total_points": 27,
+      "total_points": 30,
       "teams": {
         "Portugal": {
           "W": 2,
@@ -238,12 +238,12 @@
           "pts": 8
         },
         "Colombia": {
-          "W": 2,
+          "W": 3,
           "L": 0,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 7
+          "pts": 10
         },
         "Japan": {
           "W": 1,
