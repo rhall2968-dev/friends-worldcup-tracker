@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T00:02:09.234377+00:00",
+  "last_updated": "2026-07-06T05:08:33.853571+00:00",
   "drafters": {
     "Cole": {
       "total_points": 28,
@@ -137,15 +137,15 @@
       }
     },
     "Joey": {
-      "total_points": 40,
+      "total_points": 43,
       "teams": {
         "England": {
-          "W": 3,
+          "W": 4,
           "L": 0,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 10
+          "pts": 13
         },
         "Belgium": {
           "W": 1,
@@ -292,7 +292,7 @@
         },
         "Mexico": {
           "W": 4,
-          "L": 0,
+          "L": 1,
           "T": 0,
           "OTW": 0,
           "OTL": 0,
