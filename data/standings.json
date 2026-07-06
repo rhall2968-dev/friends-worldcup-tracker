@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T19:51:25.631149+00:00",
+  "last_updated": "2026-07-06T21:26:40.040565+00:00",
   "drafters": {
     "Cole": {
       "total_points": 28,
@@ -47,15 +47,15 @@
       }
     },
     "Markus": {
-      "total_points": 31,
+      "total_points": 34,
       "teams": {
         "Spain": {
-          "W": 3,
+          "W": 4,
           "L": 0,
           "T": 1,
           "OTW": 0,
           "OTL": 0,
-          "pts": 10
+          "pts": 13
         },
         "Norway": {
           "W": 4,
@@ -231,7 +231,7 @@
       "teams": {
         "Portugal": {
           "W": 2,
-          "L": 0,
+          "L": 1,
           "T": 2,
           "OTW": 0,
           "OTL": 0,
