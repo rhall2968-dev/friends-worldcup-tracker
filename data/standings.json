@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T22:43:58.226076+00:00",
+  "last_updated": "2026-07-11T23:52:11.095977+00:00",
   "drafters": {
     "Cole": {
       "total_points": 31,
@@ -47,7 +47,7 @@
       }
     },
     "Markus": {
-      "total_points": 37,
+      "total_points": 38,
       "teams": {
         "Spain": {
           "W": 5,
@@ -62,8 +62,8 @@
           "L": 1,
           "T": 0,
           "OTW": 0,
-          "OTL": 0,
-          "pts": 12
+          "OTL": 1,
+          "pts": 13
         },
         "Ivory Coast": {
           "W": 2,
@@ -137,15 +137,15 @@
       }
     },
     "Joey": {
-      "total_points": 48,
+      "total_points": 50,
       "teams": {
         "England": {
           "W": 4,
           "L": 0,
           "T": 1,
-          "OTW": 0,
+          "OTW": 1,
           "OTL": 0,
-          "pts": 13
+          "pts": 15
         },
         "Belgium": {
           "W": 2,
